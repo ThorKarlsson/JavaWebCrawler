@@ -1,0 +1,1 @@
+Simple webcrawler which crawls 1000 URL's from an inputter URL. The program outputs all crawled URL's
